@@ -1,0 +1,11 @@
+CanvasChart KEYWORD1
+
+push KEYWORD2
+setLegendFont KEYWORD2
+setXLegendPoints KEYWORD2
+setYLegendPoints KEYWORD2
+setAstyle KEYWORD2
+setBstyle KEYWORD2
+setTimeFormat KEYWORD2
+getChart KEYWORD2
+ready KEYWORD2

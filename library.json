@@ -1,0 +1,19 @@
+{
+  "name": "CanvasChart",
+  "keywords": "CanvasChart, IOT, visualization",
+  "description": "Canvas Charts API for IOT devices",
+  "authors":
+  [
+    {
+      "name": "Pavel Kolesov"
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Am0k-GIT/CanvasChart_lib"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}
