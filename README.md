@@ -7,7 +7,7 @@ creating an object of the class
 (`points` - the number of points of reference in the stack (FIFO), `extraData` - using an additional data column (by default false)).
 ____
 ```C++
-void CanvasChart.setLegendFont(string font, uint8_t size);
+void CanvasChart.setLegendFont(String font, uint8_t size);
 ```
 set font and size for axis labels. Optional method.
 ____
@@ -22,12 +22,12 @@ void CanvasChart.setYLegendPoints(uint8_t intervaleLeft, uint8_t intervaleRight)
 set the number of samples for the left and right Y-axes (intervaleRight optional with `extraData` = true). Optional method.
 ____
 ```C++
-void setLeftYstyle(string lineColor, uint8_t lineWidth, string label);
+void CanvasChart.setLeftYstyle(String lineColor, uint8_t lineWidth, String label);
 ```
 set the line color, width and top label for the first (left) graph. Optional method.
 ____
 ```C++
-void setRightYstyle(string lineColor, uint8_t lineWidth, string label);
+void CanvasChart.setRightYstyle(String lineColor, uint8_t lineWidth, String label);
 ```
 set the line color, width and top label for the additional (right) graph. Optional method.
 ____
