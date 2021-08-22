@@ -1,3 +1,6 @@
+# CanvasChart library
+
+![main](image.png)
 
 ## Library methods:
 ```C++
